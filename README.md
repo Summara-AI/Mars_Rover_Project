@@ -13,9 +13,6 @@ mars_rover_simulation/
 ├── rover_sim.py # Sets up the PyBullet simulation, renders obstacles and rover, follows path
 └── README.md # Project documentation (this file)
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -114,4 +111,5 @@ A* Pathfinding Algorithm - Stanford CS
 
 📌 Disclaimer
 This is a simplified educational simulation and does not represent the full complexity of actual planetary rover navigation systems, which incorporate far more sophisticated sensors, controls, and terrain analysis. However, it provides a strong starting point for understanding the core principles.
+
 
